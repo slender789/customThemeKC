@@ -1,0 +1,6 @@
+{
+    "themes": [{
+        "name" : "phi1",
+        "types": [ "login" ]
+    }]
+}
